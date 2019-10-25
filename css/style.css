@@ -98,7 +98,7 @@ p { margin-bottom: 15px }
 }
 
 .clearfix {
-    *display: inline-block;
+    display: inline-block;
     height: 1%;
 }
 
